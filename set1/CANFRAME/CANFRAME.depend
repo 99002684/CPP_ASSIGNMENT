@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1600610229 source:c:\users\dell\desktop\cpp check\set1\canframe\main.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+	"account.h"
+	"box.h"
+	"color.h"
+	"customer.h"
+	"image.h"
+	"ip.h"
+	"point.h"
+
+1600609945 c:\users\dell\desktop\cpp check\set1\canframe\account.h
+	<string>
+
+1600609952 c:\users\dell\desktop\cpp check\set1\canframe\box.h
+	<iostream>
+
+1600609954 c:\users\dell\desktop\cpp check\set1\canframe\color.h
+
+1600609957 c:\users\dell\desktop\cpp check\set1\canframe\customer.h
+
+1600609883 c:\users\dell\desktop\cpp check\set1\canframe\image.h
+	<string>
+
+1600609960 c:\users\dell\desktop\cpp check\set1\canframe\ip.h
+	<iostream>
+	<string.h>
+
+1600609962 c:\users\dell\desktop\cpp check\set1\canframe\point.h
+	<iostream>
+
